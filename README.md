@@ -1,3 +1,4 @@
+this repo is based on SCMIL, we have extracted feature using CLAM model and then used those in the SCMIL pipeline
 ## Installation
 
 - Environment: Linux / CUDA 11.3 / Python 3.9
